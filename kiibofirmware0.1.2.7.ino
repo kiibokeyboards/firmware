@@ -1,5 +1,3 @@
-#include <Bounce.h>
-
 int columns[] = {7, 8, 9, 10, 11, 12, 6, 14, 15, 16, 17, 18};
 int rows[] = {23, 22, 21, 20, 19};  
 int colRow[] = {};
