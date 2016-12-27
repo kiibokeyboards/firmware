@@ -1,4 +1,3 @@
-#CHANGELOG
 27-11-2016 update 0.1.1 "full working" row1 output(1;1) per time
 27-11-2016 update 0.1.2 stub for row 1 and row2 together but has an error to display the wrong row. 
 29-11-2016 update 0.1.2.3 "full working" row1 and row2 1char output, timer has to be added to switch from row1 to row2.
