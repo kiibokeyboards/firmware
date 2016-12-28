@@ -5,3 +5,4 @@
 3-12-2016 update 0.1.2.5 Radically new basic routine. Timer has gone and replaced by the loop() function. The code now uses matrices instead of different if loops for every key. The code does not however display one key per keypress. So a button pushed cecker has to be implemented.
 16-12-2016 update 0.1.2.6 Layer matrix added, this is for a new way of handling witch modifier characters and keyboard layers. And it can display a charater in a wordprocessor like word or notepad instead of showing the coordinates of the key in the matrix on the Serial Monitor.
 27-12-2016 update 0.1.2.7 Working one keypress at a time.
+28-12-2016 update 0.1.2.8 Added comments.
